@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="signature">Signature</string>
+    <string name="photo">Photo</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="text_clear">Clear</string>
+</resources>
